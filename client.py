@@ -28,3 +28,6 @@ def responder(mensagem):
 
 
 bot.polling()
+
+
+# adicionar metodo de banco para salvar dados sobre a placa
