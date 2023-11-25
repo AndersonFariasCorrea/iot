@@ -1,6 +1,5 @@
 import socket
 import telebot
-import haddle_static
 
 CHAVE_API = "6680158518:AAG1bJvpEAvf69YJNZol4NrYezfz14e27_Y"
 
