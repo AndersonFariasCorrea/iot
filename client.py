@@ -1,7 +1,7 @@
 import socket
 import telebot
 
-CHAVE_API = "6680158518:AAG1bJvpEAvf69YJNZol4NrYezfz14e27_Y"
+CHAVE_API = "CHAVE DA API AQUI"
 
 bot = telebot.TeleBot(CHAVE_API)
 
